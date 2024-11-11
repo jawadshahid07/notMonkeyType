@@ -18,8 +18,8 @@ const About = () => {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
               <TeamCard
                 name="Via Eyes"
-                teacher="Mudassir Saeed"
-                assistant="Laiba Aslam"
+                teacher="Momna Zaneb"
+                assistant="Hassan Raza"
               />
             </div>
           </div>
@@ -42,32 +42,32 @@ const About = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           <MemberCard
             profilePic={member1Pic}
-            name="Shaaf Salman"
-            rollNumber="21L 6083"
+            name="Jawad Shahid"
+            rollNumber="21L 5787"
             sectionBatch="2021 Batch"
-            contactNumber="03174532990"
-            email="L216083@lhr.nu.edu.pk"
+            contactNumber="03208433967"
+            email="l215787@lhr.nu.edu.pk"
           />
           <MemberCard
             profilePic={member2Pic}
             name="Haider Khan"
             rollNumber="21L-6067"
             sectionBatch="2021 Batch"
-            email="L216067@lhr.nu.edu.pk"
+            email="l216067@lhr.nu.edu.pk"
           />
           <MemberCard
             profilePic={member3Pic}
-            name="Mian Abdul Hadi"
-            rollNumber="21L 6077"
+            name="Syed Farhan Jafri"
+            rollNumber="21L 6074"
             sectionBatch="2021 Batch"
-            email="L216077@lhr.nu.edu.pk"
+            email="l216074@lhr.nu.edu.pk"
           />
           <MemberCard
             profilePic={member4Pic}
-            name="Syed Farhan Jaffri"
-            rollNumber="21L 6074"
+            name="Abdul Mannan"
+            rollNumber="21L 6121"
             sectionBatch="2021 Batch"
-            email="L216074@lhr.nu.edu.pk"
+            email="l216121@lhr.nu.edu.pk"
           />
         </div>
       </div>
