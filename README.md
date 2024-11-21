@@ -96,9 +96,6 @@ To install notMonkeyType, follow these steps:
 ### Home Game Menu
 ![Game Menu](<Shots/Screenshot 2024-05-14 171936.png>)
 
-### Friends Battles Page
-![Friends Battles](<Shots/Screenshot 2024-05-14 171958.png>)
-
 ### Single Player Emulator
 ![Single Player Emulator](<Shots/Screenshot 2024-05-14 172101.png>)
 
